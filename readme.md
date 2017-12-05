@@ -1,8 +1,7 @@
 # GDI Core Intro to Web Concepts
 
-This is the official Girl Develop It Core Intro Web Concepts course. Material was originally developed by Matt Torbin and Elise Wei, and modified by Sylvia Pellicore & Becky Blank.
+This is a modified version of the official Girl Develop It Core Intro Web Concepts course. I've abbreviated and edited it to create an abridged version for an offline session to be taught in a pilot program with GDI at a women's correctional institute. Material was originally developed by Matt Torbin and Elise Wei, and modified by Sylvia Pellicore & Becky Blank.
 
-The course is meant to be taught in a single two-hour workshop.
 
 ## Suggested course description
 
