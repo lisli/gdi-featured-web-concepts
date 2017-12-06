@@ -1,0 +1,36 @@
+body {
+	background-color: aliceblue;
+}
+
+h1 {
+	color: green;
+	font-family: Arial, sans-serif;
+}
+
+.tagline {
+	font-style: italic;
+	background-color: yellow;
+}
+
+.headshot {
+	width: 100px;
+}
+
+p {
+	color: blue;
+}
+
+p a {
+	color: red;
+}
+
+ul {
+	background-color: teal;
+	color: darkgrey;
+}
+
+ol {
+	background-color: purple;
+}
+
+
